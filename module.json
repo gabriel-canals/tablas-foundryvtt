@@ -13,20 +13,20 @@
             "entity": "RollTable"
         },
         {
-            "name": "community-tables-independent",
+            "name": "tablas-de-la-comunidad-independientes",
             "label": "FVTT Community Tables - Independent",
             "path": "packs/table-independent.db",
             "module": "foundry_community_tables_spanish",
             "entity": "RollTable"
         }
     ],
-    "url": "https://github.com/foundry-vtt-community/tables",
-    "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/tables/main/module.json",
-    "download": "https://github.com/foundry-vtt-community/tables/archive/v9.3.zip",
-    "bugs": "https://github.com/foundry-vtt-community/tables/issues",
-    "readme": "https://raw.githubusercontent.com/foundry-vtt-community/tables/main/README.md",
-    "changelog": "https://github.com/foundry-vtt-community/tables/releases",
-    "license": "https://raw.githubusercontent.com/foundry-vtt-community/tables/main/LICENSE.md",
+    "url": "https://github.com/gabriel-canals/tablas-foundryvtt",
+    "manifest": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/module.json",
+    "download": "https://github.com/gabriel-canals/tablas-foundryvtt/archive/main.zip",
+    "bugs": "https://github.com/gabriel-canals/tablas-foundryvtt/issues",
+    "readme": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/README.md",
+    "changelog": "No hay publicaciones oficiales actualmente.",
+    "license": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/LICENSE.md",
     "socket": true,
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "10"
