@@ -1,0 +1,827 @@
+{
+  "name": "Trampas Mortales",
+  "description": "¡Cincuenta y ocho de las trampas más mortales en las que pueden caer tus jugadores! Créditos: http://dndspeak.com",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "results": [
+    {
+      "_id": "cFgwF6JoVyt3OCMt",
+      "flags": {},
+      "type": 0,
+      "text": "Un hoyo se abre bajo los pies del personaje. Al fondo de la fosa se encuentra un botón que al presionarlo suelta un bloque de piedra sobre el agujero, cubriéndolo y aplastando al personaje.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5thFDZFLh8Ij9L0p",
+      "flags": {},
+      "type": 0,
+      "text": "Una palanca con una señal que reza “Tirar para abrir“ junto a una puerta bloqueada con una trampa horriblemente escondida a los pies de la puerta bajo la entrada. Tirar de la palanca sorprendentemente abre la puerta. Si se toca la puerta sin tirar de la palanca, la trampa de la puerta se abre.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M1aKmyRZ08C1iwAt",
+      "flags": {},
+      "type": 0,
+      "text": "Una serie de pasillos interconectados de apariencia regia están débilmente iluminados con antorchas mágicas suspendidas en candelabros. La entrada por la que los intrusos acceden se cierra de repente, y los intrusos se quedan silenciosos durante unos segundos. Por uno de estos pasillos se revela una mancha de oscuridad creciente, que va consumiendo las antorchas, que vuelven a encenderse cuando los intrusos llegan a ellas mientras la oscuridad no está cerca. Los intrusos deben explorar los diferentes pasillos mientras evitan la mancha de oscuridad, que envuelve y no deja rastro de nada que entre en ella. Cualquier intento de combatir la oscuridad es inútil, ya que cualquier cosa que entre se desvanece, para jamás volverla a ver. La oscuridad es semi-sensible, y los intrusos pueden interactuar con ella intentando esconderse de ella o forzándola a seguirlos. La clave para escapar de los pasillos reside en las antorchas mágicas situadas en los dos candelabros decorados impresionantemente que la oscuridad no parece poder pasar a través. Quitando una de las antorchas especiales y llevándola consigo, un intruso puede detener la oscuridad o incluso empujarla hacia atrás. Sin embargo, confrontarla por demasiado tiempo comenzará a apagar la antorchas hasta que se desvanezca, forzando al portador a escapar de la oscuridad para que la antorcha se vuelva a encender. Cuando las antorchas especiales llegan a la oscuridad desde ambos lados de un pasillo, se comprime y finalmente desaparece, dejando una puerta en el lugar en que desaparece.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9fB7HnWaoFZQfa2W",
+      "flags": {},
+      "type": 0,
+      "text": "Una piedra preciosa tallada toscamente flota sobre un ominoso líquido similar al petróleo crudo en una sala cavernosa mientras un espíritu maligno flota alrededor del techo y fuera del rango de visión. La entrada de nuevas entidades en la sala provoca que el cristal se enfrente a los intrusos, revelando que, en realidad, es un ojo de algún tipo que contiene una pupila que dispara dardos rápidamente entre los intrusos y el espíritu. El espíritu inmediatamente comienza a animar al ojo de cristal para que destruya a los intrusos, hablándole como si se tratara de un niño que necesita ayuda. Tras unos segundos de escucha aparente, el ojo se centra completamente en el espíritu y empiezan a erupcionar pilares de roca desde el suelo de la sala, situándose cerca de los intrusos. Los pilares, aunque son inicialmente imprecisos, comienzan a dirigirse a los intrusos más y más cuanto más tiempo permanezcan quietos, provocando 5d10 de daño contundente al golpear a alguien. La clave para escapar de la sala está en el ojo de cristal en el centro de la sala, a quien el espíritu le ha dicho que mate a los intrusos. A través de una persuasión mayor que la del espíritu, los intrusos pueden convencer al ojo de cristal de que deje de atacarles y eventualmente que ataque al espíritu en lugar de a ellos, el cual desaparecerá tras recibir algunos golpes con los pilares de piedra. El ojo es muy infantil en sus consideraciones y perderá la concentración si los intrusos fallan en convencerlo o empiezan a actuar impacientemente. Los acercamientos simples funcionan bien, y el ojo responde positivamente a los ánimos constructivos cuando ataca a los intrusos (¡Qué buena puntería, sentí el viento peinándome! La próxima vez, intenta apuntar hacia el espíritu maligno, ¿vale?). Una vez el espíritu es destruido, una sugerencia gentil de que el ojo cree una salida lo convencerá y apartará un bloque de piedra de un muro que revelará un pasadizo al exterior de la sala.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oYgckmyRmTsEFNF8",
+      "flags": {},
+      "type": 0,
+      "text": "Atraviesan un área con “Colmenas de abejas durmientes”, donde hay una figura de una reina abeja con un aguijón en forma de llave en un jarro de cristal a la entrada de la habitación. La jarra actúa como sello que mantiene las feromonas de la reina apartadas del resto de la colmena. Una vez se retira de la jarra para desbloquear una misteriosa cerradura, las colmenas despiertan para atacar aquellos que sostengan a “su reina”.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8KdpcK6b0lrY0wEJ",
+      "flags": {},
+      "type": 0,
+      "text": "Un cubo gelatinoso prácticamente invisible bloquea una sección entera de un pasillo. Para verlo se requiere de una prueba de Percepción alta. Comenzará a digerir inmediatamente a cualquier aventurero que camine a través de él, tiñendo la gelatina de un tono rosa claro.",
+
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mt4Zwn2Bu6NqVBA3",
+      "flags": {},
+      "type": 0,
+      "text": "Un pasillo con lo que parece ser trampas de dardos, trampas de agujeros con pinchos, o fuego. Se trata de una sucesión de 3 pasillos (imagina tres pasillos uno tras otros con distintas trampas, con una pequeña sala entre cada uno que puede albergar entre 4 y 6 personas). Cada pasillo tiene 2 estatuas al inicio de los mismos, con una mano levantada señalando hacia ellos. El primer pasillo desactiva las trampas tras sujetar una de las manos y bajándola. Una vez se encuentren en el siguiente pasillo ambas estatuas tendrán las manos subidas, y una activa las trampas por las que acaban de pasar mientras que la otra desactiva las que se encuentran delante (pero no se puede bajar ambas, así que si intentan desactivar las trampas de delante, estas seguirán activas). Y finalmente el último pasillo desactivará las trampas pero el suelo tiene placas de presión. Describe cómo el grupo ve que la mano de la estatua vuelve colocarse en la posición inicial cuando un miembro empieza a caminar a través. Básicamente los dos primeros pasillos castigan a los grupos que no siguen al pícaro y le obligan a enfrentarse a las trampas, mientras que el último pasillo castiga a los jugadores que que siguen al pícaro y que evitan distanciarse.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jcJTiYM2gvnJo1oo",
+      "flags": {},
+      "type": 0,
+      "text": "Encuentran en un mapa en un esqueleto envuelto en una vieja llave esquelética. El mapa muestra trampas, pero toda la información es cierta a medias o es totalmente errónea. La llave puede abrir cualquier puerta de la mazmorra, pero atrae cualquier no muerto en 10 millas a la redonda. Toma una pista, tal vez el tipo muerto con el mapa y la llave murió por alguna razón.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qemFgn16A5X7h8ew",
+      "flags": {},
+      "type": 0,
+      "text": "Cuando traten de abrir una puerta tendrán que pasar una prueba de salvación de sabiduría de CD x para abrirla. Fallar en esta tirada suponer que el personaje sienta la necesidad de “abrir” a lo que tenga más cerca, provocando que ataque al personaje más cercano durante y asaltos.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bGE4Wge7Ckmqwtdg",
+      "flags": {},
+      "type": 0,
+      "text": "Una puerta secreta lleva a una cámara del tamaño de un armario cuyas paredes y puerta son muy gruesas. Detectar magia revelará una aura tenue donde convergen las paredes en el techo. Si cualquier personaje pisa dentro y la puerta no está bloqueada, la puerta se cerrará y se fundirá hasta transformarse en parte de la pare. Hay una barrera de 1 pulgada de adamantio dentro de la piedra de las paredes/suelo/techo. Además está rodeado por dos pies de piedra a su alrededor. El personaje dentro de la cámara empezará a sofocarse después de una hora y recibe un nivel de fatiga después de cada hora adicional.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RVRwdG9lAnyE9Juo",
+      "flags": {},
+      "type": 0,
+      "text": "Al atravesar un pasillo, el grupo pasa a través de un gran grupo de puertas de madera reforzada. Detrás de estas puertas se encuentra otro pasillo de unos 5 pies de longitud. En este pasillo, hay 10 grandes grupos de armaduras de acero completo con distintas armas desde dagas, espadas largas, espadas roperas, látigos, mazas, gujas, etc. (todas ellas de muy buena calidad). Están alineadas a lo largos de los muros del pasillo, con 5 grupos a cada lado. Si cualquiera de las armaduras o armas son tocadas, cada grupo de armaduras se activará equipándose las armas a su disposición, atacando al objetivo más cercano inmediatamente. Las puertas también se cerrarán de un portazo, golpeando a cualquiera que se encuentre en el marco de las mismas. Las puertas sólo se desbloquearán si las armaduras han sido derrotadas.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tsiTbmyENeMoxMGQ",
+      "flags": {},
+      "type": 0,
+      "text": "Entráis en una mazmorra con un agujero en el suelo. El agujero tiene runas a su alrededor que no podéis descifrar. A medida que os aproximáis podéis escuchar los llantos de un niño, y cuando miráis dentro del hoyo podéis ver a un niño humano cubierto con ropajes sucios. Tenéis la posibilidad de sacar al niño, pero dice que no puede cruzar las runas y que le tenéis que levantar. Al hacerlo, el niño (vampiro) intenta comeros, causando daño perforante.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "z7eZcEkOq8jKz425",
+      "flags": {},
+      "type": 0,
+      "text": "Llegáis al final de un pasillo con tres puertas, cada una de las cuales con una palabra escrita en común. En la primera pone Comunidad, en la segunda, Festividad, y en la tercera pone Compañía. Si abres la primera puerta una plaga de ratas craneales descenderá sobre vosotros, alertándoos de la presencia de un desollador mental. Si abrís la segunda puerta, tres hijos de Kyuss se abalanzan sobre vosotros. Si abrís la tercera puerta, dos Mastines de Sombra se lanzan contra vosotros.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "t3sCFoR4cdpnHhAa",
+      "flags": {},
+      "type": 0,
+      "text": "Esta trampa está muy relacionada con los kobold, pero podría funcionar con otras criaturas... Caminando por una colina de una montaña/volcán o sobre ella, un miembro del grupo pisa una placa de presión situada bajo unos escombros, o tierra (depende del terreno). Un arpón sale disparado e impacta sobre el personaje en la pierna. Un kobold que estaba esperando escondido golpea un peso atado a una cadena que se engancha al personaje y lo arrastra al personaje colina abajo alrededor de 20 pies sobre el siguiente nivel (asumiendo que no supera una prueba de fuerza con desventaja). De un arbusto cercano surgen un par de kobolds en el nivel inferior intentando alcanzar al personaje mientras el grupo está acorralado y distraído. Tendrán que decidir si salvan a su amigo, que está luchando difícilmente pues hasta que se levante tiene desventaja a todos los ataques. La pesa dificultará su subida a menos que se la quite (así como el dolor de un gancho en su pierna que hará que la subida sea también un poco más difícil). Para ideas sobre cómo la cadena se ve, piensa en un anzuelo de pesca con una pesa en ella.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UcjS700K0XanZuxg",
+      "flags": {},
+      "type": 0,
+      "text": "Dos armaduras animadas permanecen una frente a otra en una pequeña sala invitando a los personajes a jugar a squash con una esfera de aniquilación mientras las armaduras intentan atraparla para usarla.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "I4mKA8bHlXNwRMhZ",
+      "flags": {},
+      "type": 0,
+      "text": "Una puerta abre paso hacía un pequeño salón. Tras la puerta hay un tablón atado del techo mal escondido, pero abrirla no parece haber causado que se mueva, debe de ser falso. Cruzar la puerta causa que el suelo se abra, causando que el personaje caiga en una fosa de zarzas, y el falso tablón se suelta y cae sobre aquellos que hubieran caído en la fosa. Puede resolverse lanzando una piedra a la puerta por el otro lado, el tablón se caerá y creará un puente de seguridad entre las zarzas.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Pas7pEni0J08xv0T",
+      "flags": {},
+      "type": 0,
+      "text": "Un cañón con una lanza dentro, lista para disparara y capaz de cambiar su objetivo. Se ha dispuesto para activarse en cuanto detecte cualquier tipo de magia lanzada (Aquello que se lanzara antes de entrar no activará la trampa).",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jqH26elSFBLYhcby",
+      "flags": {},
+      "type": 0,
+      "text": "Una fosa provoca el que el pobre aventurero caiga en un cubo gelatinoso. Dicho bloque de Gelatina maligna también tiene espadas animadas en su interior que se enfrentarán al aventurero. Alternativamente, hay una trampa de suelo norma, pero desactivarla provoca que otro cubo lleno de espadas caiga sobre el aventurero desde el techo.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EWwbNhRUMYqB5xi2",
+      "flags": {},
+      "type": 0,
+      "text": "Una sala con un gran candelabro cubriendo gran parte del techo y nada más en el suelo o las pareces. Cuando la trampa se activa, la gravedad se invierte en la sala, tirando a los ocupantes sobre la trampa de pinchos del candelabro. Tras eso, la gravedad vuelve a la normalidad y devuelve a los ocupantes al suelo, seguidos por la caída del Empalador.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hVqlqFiJ6727srrn",
+      "flags": {},
+      "type": 0,
+      "text": "Una gran sala cuadrada que contiene un camino laberíntico de placas de presión situadas en el suelo y que lleva al otro lado. Si una placa de presión es pisada, un cubo de limo gigante cae llenando toda la sala. Los jugadores reciben 1d4 de daño por ácido cada turno por culpa del limo hasta que escapen.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "t5i4uIBHln58MhmX",
+      "flags": {},
+      "type": 0,
+      "text": "En un oscuro pasillo, una parte del suelo se dobla cuando tiene mucho peso sobre el mismo y regresa a su posición normal cuando el peso se deja de aplicar. Eso obviamente lleva a una josa, pero en la fosa no hay nada. Simplemente provoca una caída de 50 pies dejando al grupo en una sala de 20 pies que está a 50 pies de altura.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5QT1HT3tC05ek58j",
+      "flags": {},
+      "type": 0,
+      "text": "Un pasillo largo y oscuro que se inclina ligeramente hacia abajo. Una gran reserva de mercurio empieza a discurrir en el suelo. Adelántala para evitar ser empalado.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rD2AEg3ZMD9Mka09",
+      "flags": {},
+      "type": 0,
+      "text": "Una escalera que tiene una puerta de metal en la parte superior y en la inferior. La puerta superior es una falsa puerta y tras ella reside un flujo natural de lava. Cuando los 3 primeros escalones detectan presión, la puerta superior tiene unos paneles que se abren y dejan entrar la lava. La puerta inferior está bloqueada, y unos paneles en el suelo al final de la escalera se abren solamente después de que el pasillo se ha llenado de lava y los paneles de la puerta superior se cierran de nuevo.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GgHoH3Q3wXkAuXp0",
+      "flags": {},
+      "type": 0,
+      "text": "Un pozo con una cuerda o cadena que cuelga de él. A unos 100 pies de profundidad hau una rejilla que no lleva a ninguna parte. Las pareces del pozo tienen unos pequeños agujeros a lo largo del mismo, posiblemente para escalar por el mismo. Después de aplicar una cierta cantidad de peso sobre la cuerda (equivalente a dos o tres miembros del grupo) un cubo gelatinoso cae desde una celda hacía la parte baja del pozo y consume su presa hasta que todo el material orgánico ha sido digerido, luego se cuela por la rejilla del suelo y se recoge en su celda tras la piedra.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GsIWgU2rVVt2G4u9",
+      "flags": {},
+      "type": 0,
+      "text": "Un cofre del tesoro se encuentra en una fosa cuadrada de 10 pies de profundidad. La fosa está limpia y enteramente compuesta por piedra suave, haciendo que sea difícil escalarla. Si se añade peso en el suelo de la fosa (el peso de uno o mas aventureros humanoides), esta y 1 pie de las paredes de la fosa se disparan hacía arriba contra el techo impidiendo escapar a quien esté en su interior. Entonces los muros se cierran y colapsan sobre los aventureros a menos que se apilen sobre el cofre, el cual no se rompe. El cofre es un mímico pero sujeto a un conjuro paralizante hasta que los muros colapsan, en cuyo caso el mímico se libera del conjuro y la trampa se reinicia en 1d4 días.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SShNYa2qUpHq8sPW",
+      "flags": {},
+      "type": 0,
+      "text": "Un escudo guardián con un conjuro de invisibilidad bloquea un pasillo o puerta y se vuelve invisible antes de que los aventureros puedan verlo. El Guardián bloquea el camino y embosca al primer aventurero con el que se encuentra.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lDUXZZO2OY2k1raq",
+      "flags": {},
+      "type": 0,
+      "text": "Una fosa en un charco de barro. Mientras los aventureros se mueven cerca del charco, este parece empezar a moverse por si mismo y lentamente comienza a arrastrar a cualquier cosa que este sobre el mismo hacia sus profundidades.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lVmiaC0Ge5Llm4jl",
+      "flags": {},
+      "type": 0,
+      "text": "Una fosa en una piscina de aceite inflamable. Las víctimas pueden escalar para escapar de la piscina hacia un largo pasillo que lleva al lugar donde estaban previamente. A través de este pasillo hay velas mágicas balanceándose, pequeños lanzallamas, y elementales de fuego menores.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2WFwR18UOE0vsnpL",
+      "flags": {},
+      "type": 0,
+      "text": "Un baño abandonado de apariencia normal. Hay un cable trampa saliendo de uno de los cubículos, que sella firmemente la única puerta. Luego, comienza a salir agua contaminada de las letrinas. Los aventureros deben romper la puerta para escapar y, si tocan el agua, enferman.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MGlFncNrPd8xPXza",
+      "flags": {},
+      "type": 0,
+      "text": "Una habitación con suficientes camas para que el grupo pueda descansar. Bajo las sábanas se encuentran unas placas de presión que abren pequeños agujeros en los muros. Lentamente pero sin parar, una neurotoxina comienza a emanar de los agujeros, y parece llenar la habitación, mientras los aventureros duermen.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vzn3LLaPjlmNtJ0y",
+      "flags": {},
+      "type": 0,
+      "text": "Un raquítico puente de madera sobre una gran fosa oscura, con serpiente al fondo de esta. Hay un agujero en una de las paredes laterales (requiriendo una prueba de percepción pasiva para verla). El puente en si mismo es relativamente seguro, pero hay un cable trampa fino a mitad de camino en el puente, que activa el agujero, haciendo que expulse una línea de fuego sobre el final del puente.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FMNbSSEgR95s5ivb",
+      "flags": {},
+      "type": 0,
+      "text": "Una pared con tres puertas de piedra. Hay un pedazo de papel clavado en la pared con una daga, que reza que dos de las puertas llevan a un tesoro, mientras que otra mata a cualquiera que pase a través. Atravesar estas puertas no es necesario para la aventura. Si un jugador decide probar su suerte, tira 1d6 para ver lo que ocurre.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aJaCWLzM4YSjEHt7",
+      "flags": {},
+      "type": 0,
+      "text": "Una sala del tesoro, llena de cofres vacíos. Hay un cofre cerrado. Si los aventureros consiguen saquearlo, la trampa se desactiva. Si intentan salir sin tocarlo, se escucha un fuerte sonido, despertando todos los mímicos.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uqojhGkyfaFrNca3",
+      "flags": {},
+      "type": 0,
+      "text": "Los aventureros deben atravesar una puerta. Hay pedazo de papel clavado en ella, que reza: “Sé educado”, y una carita feliz. La puerta conduce a una herrería abandonada, llena de estatuas y gárgolas. Para evitar que estas ataquen al grupo, se debe dar la mano a cada una de las gárgolas antes de salir.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DW6q3XJcCQpu8RXO",
+      "flags": {},
+      "type": 0,
+      "text": "Esta es una trampa de fosa común con un giro. Al fondo de la misma, y extendido por diez pies por las paredes, todo está cubierto de alquitrán. El alquitrán puede ser pegajoso, pero en esta cantidad también actúa como cualquier líquido aceitoso como un lubricante. Trepar por una cuerda se vuelve extremadamente difícil para aquel que caiga dentro. Pero esta no es la peor parte. Una par de rondas después la trampa se activa. Los Kobolds, alarmados por una campana atada junto al disparador de la trampa, aparecerán con antorchas encendidas. Y uno de ellos comenzará a combatir lanzando una antorcha dentro de la fosa, ¡que incendiará el alquitrán!",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qQ7LqpFSfrIX3HDi",
+      "flags": {},
+      "type": 0,
+      "text": "El aceite flota en el agua: Ya todos conocéis esta escena. En el centro de una enorme mazmorra se encuentra un lago. A un borde del lago encontrarán un bote. Los aventureros tienen que meterse en el bote para avanzar a la siguiente sección de la mazmorra. Bueno, este lago en particular está custodiado por kobolds portando catalejos. Y unos pocos barriles llenos de aceite de lámpara. Y antorchas. Asegúrate de esperar hasta que el grupo haya atravesado gran parte del lago antes de que los kobolds empiecen a verter el aceite en el agua.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ocxw6vu9r53Oyrhd",
+      "flags": {},
+      "type": 0,
+      "text": "Los Kobolds son ligeros, y la armadura es pesada: Una Kobold bien preparado siempre tiene una ruta de escape. Y su ruta de escape generalmente es aquella que solo un Kobold puede utilizar. Mientras que la mayoría de Kobolds prefieren realizar estrechos pasadizos en los que solo criaturas Menudas pueden escurrirse por ellos (cavan un túnel bajo el suelo, pero con poco material actuando como suelo/techo). Considera que el túnel tiene suficiente fuerza para que aguantar el peso de un Kobold o dos. Puedes llenar el pasillo de algo asqueroso, y que conduzca a algún lugar asqueroso. Como toque final, asegúrate de colapsar el techo del túnel superior así como asegurarte de que el grupo no pueda escalarlo de nuevo.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6nUqn9ckebpLrEGn",
+      "flags": {},
+      "type": 0,
+      "text": "El oro se funde a temperaturas sorprendentemente bajas: ¿Sabías que puedes derretir oro con la llama de una vela? Tomaría alrededor de una hora hacerlo a temperatura ambiente, pero puedes. Aún más importante, si mantienes tus piezas de oro a temperatura suficientemente caliente, se fundirán muy rápidamente si se exponen a una fuente de calor muy potente. Podrían fundirse en segundo si se bañan en aceite y se encienden. Esto es algo a tener en cuenta si tu método para guardar tus monedas de oro es en una jaula de alambre atada del techo. Especialmente si dicha jaula se guarda a temperaturas muy altas, y está protegida por diversos tipos de trampas de fuego (que apuntan hacia el oro). Desafortunadamente, mientra que la temperatura puede ser relativamente mayor comparada al punto de fundición de la mayoría de metales, sigue siendo más que suficiente para cocinar cualquier carne con la que entre en contacto (y se PEGA a esa carne, por lo que el metal fundido tiende a causar las PEORES quemaduras posibles). Y por supuesto, la manera más fácil de llegar al oro es justo desde abajo. Asegúrate de dar a entender al grupo cómo de caliente está la habitación con el oro mientras estén bajo él. Si son lo suficientemente inteligentes para intuir la trampa de antemano, ojalá también sean lo suficientemente inteligentes para darse cuenta de los desagües escondidos en el suelo antes de que todo el oro se funda (muy, muy rápidamente) por los desagües.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kTzlEBoNs6Tosa3V",
+      "flags": {},
+      "type": 0,
+      "text": "Al final de un pasillo se encuentra una puerta falsa. Cuando se gira el pomo, se libera el cerrojo y los pestillos de la puerta salen disparados contra aquel que ha abierto la puerta. Debido a que la puerta ocupa gran parte del pasillo, resulta imposible esquivarlo. La persona que intente abrir la puerta recibe 2d6 puntos de daño, y cualquier persona que esté a 5 pies de la puerta recibirá 1d6 puntos de daño.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "COEqFFd5QhP4KbzS",
+      "flags": {},
+      "type": 0,
+      "text": "Cualquiera que pese más de 150 lbs. (70 kg) causará la apertura de una fosa de 25 pies de profundidad.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jYL6ahNTHNi7hLTC",
+      "flags": {},
+      "type": 0,
+      "text": "El personaje pisa sobre la trampa y los ojos hechos por gemas de una sala llena de estatuas disparan rayos contra él. El PJ es liquidado y parece haber sido desintegrado. Un esqueleto aparece en su lugar. Es importante que los PJ no tengan la oportunidad de detectar esta trampa o podrán encontrarle solución fácilmente (Percepción CD 30). El personaje es teletransportado a una tumba sellada llena con los esqueletos de diversas víctimas. Un pudin negro, de VD igual al grupo, intenta tragarse el PJ teletransportado y convertirlo en un esqueleto con su ácido. Cuando la trampa se desactiva, uno de estos esqueletos se teletransporta instantáneamente  al lugar donde el PJ se situaba, haciendo que parezca que se ha desintegrado. Una prueba de Percepción CD 25 basta para darse cuenta de que el esqueleto (pila de huesos) no representa al PJ (CD 20 si el tamaño del PJ es uno más o uno menos que mediano). Después de seis teletransportaciones, las víctimas “vivientes” (o sus restos) se teletransportan de nuevo al área de la trampa. Derrota la trampa moviendo estatuas dentro del área para que se teletransporten, eventualmente devolviendo “victimas”.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BnKgQCNtgHe91Lvm",
+      "flags": {},
+      "type": 0,
+      "text": "Una habitación de orbes de hiel que se adhieren a la piel y ralentizan a los personajes significativamente. Añade monstruos/otros desafíos al gusto.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xd6gTeNn2PX2qvBD",
+      "flags": {},
+      "type": 0,
+      "text": "Un largo paso de agua turbia y sin profundidad. Dos botes están atados en la entrada. Uno que luce desvencijado y tiene algo de agua en su interior, y otro que parece nuevo, adornado en sus bordes y que parece un poco más seguro. Resulta que el “nuevo” en realidad es una ilusión, y desaparece en una bola de humo cuando recorren media distancia.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ziCeaBBdru6PW6lZ",
+      "flags": {},
+      "type": 0,
+      "text": "Un gran laberinto con pasillos de color amarillo esponja lo suficientemente grandes para que un humano pueda gatear por ellos. El laberinto empieza a empequeñecerse y se hace más duro si los PJ tardan demasiado en atravesarlo.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tXntbO5hSmVsrEIB",
+      "flags": {},
+      "type": 0,
+      "text": "Un largo pasillo en oscuridad absoluta. Si los aventureros intentan iluminarlo, la oscuridad misma se lanza contra el grupo.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "itxTtAWmCbXb3BW6",
+      "flags": {},
+      "type": 0,
+      "text": "Entran en una sala, y hay cinco puertas. Cada una tiene un número: 1, 2, 4, 5, 6. No hay puerta #3.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4Im3VvdIMQSF8oeR",
+      "flags": {},
+      "type": 0,
+      "text": "Un largo y oscuro pasillo. Hay velas que iluminan débilmente el camino, y ocasionalmente se pueden sentir briznas de viento. En algún momento, haz que un personaje pise un bloque que baja un poco, y diles que un soplo de aire acaba de salir de un bloque en el muro a su izquierda o derecha.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XX72QWz6ESsSJMnh",
+      "flags": {},
+      "type": 0,
+      "text": "Una puerta de madera que pone “Toca”. Llamar a la puerta para entrar. ALTERNATIVAMENTE: una puerta de madera, en mal estado; parece que pueda haber sido destruida. Los personajes pueden ver al otro lado, de hecho. ¿La trampa? Nadie salvo el más débil de todo el grupo puede abrirla. No puede ser destruida por nada.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bI2hgNZiTSXjnHAt",
+      "flags": {},
+      "type": 0,
+      "text": "Una señal mal escrita en [el idioma de aquel que halla hecho la mazmorra] que reza “ten cuidado”; el área por algún motivo apesta. Se dirige a un pasillo pequeño con otra señas perfectamente escrita que reza “regresa”. Cada vez huele peor, y mucho más húmedo. Si el grupo continúa, se encuentran al fondo de una mazmorra subterránea. Bonus: si han llegado hasta aquí, y si son inteligentes y no pueden oler nada y quieren arriesgarse a ser unos parias sociales durante los próximos días, pueden escalar hasta las habitaciones conectadas en la zona superior.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Eewc9pG6XiAm2sFM",
+      "flags": {},
+      "type": 0,
+      "text": "Runas mágicas que se activan cuando un personaje entra en el área, lanzando suelo de hielo. Para poder moverse, los personajes deben realizar pruebas de Destreza o caer y sufrir daño.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FhGuODaNZDAnOlrE",
+      "flags": {},
+      "type": 0,
+      "text": "Durante un viaje por un camino hacia una localización popular o una ciudad, el grupo escucha una voz tan suave y encantadora que les obliga a moverse hacia ella. Si falla una prueba de Sabiduría (DC 15), se mueven hacia la voz que lleva a un nido de brujas. La voz emana de una de las brujas. Ante una tirada superada, los personajes todavía pueden oir la voz, pero pueden vaciar su mente lo suficiente para liberarse de la presión de la canción. Hay muchas marcas de pasos en esa dirección.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TbHuKFj1FOZdIs7n",
+      "flags": {},
+      "type": 0,
+      "text": "Una calavera en llamas está ligeramente enterrada bajo algo de tierra. El suelo a su alrededor ha sido perturbado. Cuando un jugador (o dos) se acerca, caen por el suelo hasta el cubo gelatinoso que se encuentra debajo, y la calavera en llamas se eleva en el aire.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "J8IhnGaBKId9Gl4T",
+      "flags": {},
+      "type": 0,
+      "text": "Durante un viaje por un camino oscuro hacia una localización popular o una ciudad (como un bosque o cueva), el grupo escucha llantos de auxilio de una mujer. Estos llantos emanan de un grupo de kenku que ataca al grupo cuando se aproximan a la voz.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hLJRnFbdiDxL2hLb",
+      "flags": {},
+      "type": 0,
+      "text": "Un puente de piedra sobre una especie de río, cuya “agua” es un grupo de cubos gelatinosos a la espera de acorralar al que pase, ocultando sus cuerpos ya transparentes haciendo que parezca que discurre el agua.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JOoMgKn38OW8TF0c",
+      "flags": {},
+      "type": 0,
+      "text": "Literalmente una catapulta de gatos, activados por un cable trampa. Si se activa, un gato sale volando contra el PJ que ha activado la trampa. Este gato tendrá un ataque de oportunidad con sus garras mientras esté volando, y entrará en combate con el grupo tras el aterrizaje.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "k5xN8SfYNq3WzOfT",
+      "flags": {},
+      "type": 0,
+      "text": "Una trampilla en el techo se abre dejando que salga una plaga de serpientes venenosas así como una serpiente venenosa gigante.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MgZIX8QlegbXufsS",
+      "flags": {},
+      "type": 0,
+      "text": "Tres cofres aguardan en una sala. Un letrero en la pared reza “¡PELIGRO! MÍMICO!” No hay mímico, pero hay una alfombra asfixiante bajo cada cofre.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QLzlVWmjk2lIkL6e",
+      "flags": {},
+      "type": 0,
+      "text": "Una armadura animada utilizando una espada voladora. Cuando la armadura haya sido derrotada, la espada empieza a volar.",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d59",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "I4MmGxfKXV4P8UNq"
+}
