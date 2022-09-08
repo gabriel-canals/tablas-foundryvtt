@@ -6,7 +6,7 @@ Las tablas contribuidas por la comunidad de Foundry se añaden aquí y se juntan
 
 Esta es una traducción directa del código del repositorio de tablas de Foundry en inglés, para darle una mayor accesibilidad al usuario hispanohablante.
 Si por algún casual prefieres el módulo de tablas en inglés o simplemente quieres comprobar quienes son los autores originales, dirígerte al repositorio original:
-[https://github.com/dasuberchin/tables.git](https://github.com/dasuberchin/tables.git)
+[https://github.com/foundry-vtt-community/tables](https://github.com/foundry-vtt-community/tables)
 
 ## Instalación
 
