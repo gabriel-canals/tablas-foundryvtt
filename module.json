@@ -1,5 +1,5 @@
 {
-    "name": "foundry_community_tables_spanish",
+    "name": "tablas-foundryvtt",
     "title": "Tablas de la Comunidad de FoundryVTT",
     "description": "<p>¡Esto es una colección traducida al español de las Tablas añadidas por la Comunidad de FoundryVTT!<br><br>Puedes añadir tus propias tablas realizando un pull request aquí: https://github.com/foundry-vtt-community/tables</p>",
     "version": "9.3",
@@ -8,15 +8,15 @@
         {
             "name": "tablas-de-la-comunidad-5e",
             "label": "Tablas de la Comunidad FVTT - 5E",
-            "path": "packs/table-5e.db",
-            "module": "foundry_community_tables_spanish",
+            "path": "es/packs/tabla-5e.db",
+            "module": "tablas-foundryvtt",
             "entity": "RollTable"
         },
         {
             "name": "tablas-de-la-comunidad-independientes",
-            "label": "FVTT Community Tables - Independent",
-            "path": "packs/table-independent.db",
-            "module": "foundry_community_tables_spanish",
+            "label": "Tablas de la Comunidad FVTT - Independientes",
+            "path": "es/packs/tablas-independientes.db",
+            "module": "tablas-foundryvtt",
             "entity": "RollTable"
         }
     ],
