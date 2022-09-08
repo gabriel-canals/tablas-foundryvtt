@@ -1,0 +1,1 @@
+Lista de ficheros que pueden ser utilizados solos o en conjunto con una macro. Estos ficheros no son necesariamente dependientes de un sistema específico o de un grupo de otras tablas de rol.
