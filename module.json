@@ -25,7 +25,7 @@
     "download": "https://github.com/gabriel-canals/tablas-foundryvtt/archive/main.zip",
     "bugs": "https://github.com/gabriel-canals/tablas-foundryvtt/issues",
     "readme": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/README.md",
-    "changelog": "No hay publicaciones oficiales actualmente.",
+    "changelog": "https://github.com/gabriel-canals/tablas-foundryvtt/releases",
     "license": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/LICENSE.md",
     "socket": true,
     "minimumCoreVersion": "9",
