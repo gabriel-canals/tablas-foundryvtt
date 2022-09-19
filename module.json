@@ -21,7 +21,7 @@
         }
     ],
     "url": "https://github.com/gabriel-canals/tablas-foundryvtt",
-    "manifest": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/module.json",
+    "manifest": "https://github.com/gabriel-canals/tablas-foundryvtt/releases/download/v0.1/module.json",
     "download": "https://github.com/gabriel-canals/tablas-foundryvtt/archive/main.zip",
     "bugs": "https://github.com/gabriel-canals/tablas-foundryvtt/issues",
     "readme": "https://github.com/gabriel-canals/tablas-foundryvtt/blob/main/README.md",
